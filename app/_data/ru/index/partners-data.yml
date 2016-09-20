@@ -1,0 +1,12 @@
+-
+  group: "Генеральный спонсор"
+  elements:
+      - {name: "Google", description: "Google", link: "https://www.google.ru/intl/ru/about/", imageUrl: "google.svg"}
+-
+  group: "При поддержке"
+  elements:
+    - {name: "GDG Владивосток", description: "Сообщество разработчиков", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+-
+  group: "Information partners"
+  elements:
+    - {name: "Google", description: "Google", link: "https://www.google.ru/intl/ru/about/", imageUrl: "google.svg"}

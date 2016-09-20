@@ -1,0 +1,7 @@
+image: "hero.jpg"
+title: "DevFest <typeout> 2016"
+eventDate: "3 Декабря, 2016"
+typeoutTextValues: '"", "Season", "Владивосток", "Vladivostok", "VL"'
+typeoutFallback: "Владивосток"
+buttons:
+ - {link: "https://goo.gl/forms/QHVlNXHwFAJWq6J03", text: "Зарегистрироваться"}
