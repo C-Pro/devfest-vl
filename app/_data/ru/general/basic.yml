@@ -1,35 +1,34 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "DevFest Владивосток"
+email: "sergey@melekhin.me"
+description: "Конференция для разработчиков"
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vladivostok, владивосток, конференция, программирование"
+twitterAccount: "@cpro29a"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 themeColor: "#03a9f4"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Владивосток"
+organizerAlternateName: "Google Developer Group Владивосток"
+organizerDescription: "Открытая группа разработчиков"
+organizerEmail: "sergey@melekhin.me"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://google.com/+СергейМелехин"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4pButton: "Become a speaker"
+c4pUrl: "https://goo.gl/forms/35dOpf5orfz33Ti13"
+c4pButton: "Регистрация докладчика"
 
 # Varibles
-googleAnalyticsTrackingId: "UA-43643469-7"
+googleAnalyticsTrackingId: "UA-43847636-2"
 webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
-disqusShortName: "devfestua"
+disqusShortName: ""
 
 # i18n
 languages:
-  en: English
-  uk: Українська
+  ru: Русский

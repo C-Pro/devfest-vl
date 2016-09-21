@@ -1,20 +1,14 @@
-languagesTitle: "Languages"
+languagesTitle: "Язык"
 socialLinks:
- - {link: "https://plus.google.com/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/111296124416472566115", icon: "google-plus"}
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Links"
+  title: "Ссылки"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://plus.google.com/111296124416472566115", text: "GDG Владивосток"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Контакты"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:sergey@melekhin.me", text: "sergey@melekhin.me"}

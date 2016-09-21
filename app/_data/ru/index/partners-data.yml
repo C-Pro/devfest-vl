@@ -5,7 +5,7 @@
 -
   group: "При поддержке"
   elements:
-    - {name: "GDG Владивосток", description: "Сообщество разработчиков", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+      - {name: "GDG Владивосток", description: "Сообщество разработчиков", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "gdg-vladivostok.svg", width: "120px"}
 -
   group: "Information partners"
   elements:

@@ -1,8 +1,8 @@
 -
   group: "Организаторы"
   elements:
-- {name: "GDG Владивосток", description: "Владивостокское сообщество разработчиков, использующих технологии Google", link: "https://plus.google.com/u/0/b/111296124416472566115/111296124416472566115", imageUrl: "gdg-lviv.svg"}
+- {name: "GDG Владивосток", description: "Владивостокское сообщество разработчиков, использующих технологии Google", link: "https://plus.google.com/u/0/b/111296124416472566115/111296124416472566115", imageUrl: "gdg-vladivostok.svg"}
 -
   group: "Co-organizers"
   elements:
-    - {name: "VLDC", description: "Vladivostok developers conference", link: "http://vldc.org/", imageUrl: "gdg-kyiv.svg"}
+    - {name: "VLDC", description: "Vladivostok developers conference", link: "http://vldc.org/", imageUrl: "vldc.png"}
