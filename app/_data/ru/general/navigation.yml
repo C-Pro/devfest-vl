@@ -1,10 +1,9 @@
 links:
  - {permalink: "/", text: "Главная"}
- - {permalink: "/blog/", text: "Новости"}
  - {permalink: "/schedule/", text: "Расписание"}
  - {permalink: "/speakers/", text: "Докладчики"}
  - {permalink: "/team/", text: "Команда"}
 bottomLinks:
- - {link: "https://goo.gl/forms/lGLqScDRytcyYV2G3", text: "Регистрация докладчика"}
+    - {link: "https://goo.gl/forms/AHz5turXLjc64rzG3", text: "Регистрация"}
 rightButtons:
- - {link: "https://goo.gl/forms/lGLqScDRytcyYV2G3", text: "Регистрация докладчика"}
+    - {link: "https://goo.gl/forms/AHz5turXLjc64rzG3", text: "Регистрация"}
