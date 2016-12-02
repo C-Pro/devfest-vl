@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'f',
+            baseurl: 'devfest',
             git_repo: 'git@github.com:C-Pro/devfest-vl.git',
             branch: 'gh-pages'
         },

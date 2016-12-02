@@ -1,7 +1,7 @@
-languagesTitle: "Язык"
+#languagesTitle: "Язык"
 socialLinks:
  - {link: "https://plus.google.com/111296124416472566115", icon: "google-plus"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
   title: "Ссылки"

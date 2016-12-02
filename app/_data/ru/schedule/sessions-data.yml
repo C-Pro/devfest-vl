@@ -17,7 +17,7 @@
   speakers: [0]
   language: ru
   complexity: "Beginner"
-  video: ""
+  #video: ""
 -
   id: 004
   title: "Современная разработка под Android: MVP + Dagger2"
@@ -26,8 +26,8 @@
   speakers: [2]
   language: ru
   complexity: "Intermediate"
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 005
   title: "Ten steps ahead. Kubernetes"
@@ -36,7 +36,7 @@
   speakers: [3]
   language: ru
   complexity: "Intermediate"
-  presentation: ""
+  #presentation: ""
 -
   id: 006
   title: "Машинное обучение и светлое будущее"
@@ -46,27 +46,27 @@
   language: ru
   complexity: "Beginner"
   presentation: "https://drive.google.com/open?id=1Xt00FMWsxLXbLLl6EM0PdOWTg6l_Om-YE4RTz3KjvOQ"
-  video: ""
+  #video: ""
 -
   id: 007
   title: "MVP + Dagger2: практикум"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Мастер-класс по созданию Android приложений с использованием шаблона MVP и библиотеки Dagger2.."
   subtype: codelab
   speakers: [2]
   language: ru
   complexity: "Intermediate"
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 008
   title: "Deep Learning для начинающих. Практикум по TensorFlow "
-  description: "Мвстер класс по machine learning и TensorFlow"
+  description: "Мвстер класс по machine learning и TensorFlow. Приносите ноутбуки с установленным TensorFlow http://bit.ly/2fF0UAW "
   subtype: codelab
   speakers: [4]
   language: ru
   complexity: "Intermediate"
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 009
   title: "Магия разметки: Pug.js и PostHTML"
@@ -75,15 +75,15 @@
   speakers: [1]
   language: ru
   complexity: "Intermediate"
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""
 -
   id: 010
-  title: "Secret"
-  description: "Secret"
+  title: "The Go Programming Language - why should I try?"
+  description: "Поговорим про язык программирования Go. Специфика языка. Какие компании используют? С чего начинать изучение? Немного про мировое сообщество."
   subtype: presentation
-  speakers: [6]
+  speakers: [5]
   language: ru
   complexity: "Beginner"
-  presentation: ""
-  video: ""
+  #presentation: ""
+  #video: ""

@@ -1,49 +1,69 @@
 - 
+  id: 0
+  name: "Сергей"
+  surname: "Мелехин"
+  company: "Ramax Intl."
+  title: "Team lead"
+  bio: "Сергей более 10 лет занимается разработкой, специализируется на backend, базах данных, OLAP системах. Руководил командами до 17 человек."
+  thumbnailUrl: sergey_me.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+СергейМелехин"}
+    - {name: "twitter", link: "https://twitter.com/cpro29a"}
+    - {name: "github", link: "https://github.com/C-Pro"}
+-
+  id: 1
+  name: "Даниил"
+  surname: "Пронин"
+  company: "FEIP"
+  title: "Frontend developer"
+  bio: "Я разработчик в компании FEIP, занимаюсь сайтами разной сложности на поток. В отрасли уже… с сентября 2011 года в офисе, до этого фрилансил – значит, 5-6 лет точно."
+  thumbnailUrl: daniil_pronin.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/grawlcore"}
+    - {name: "github", link: "https://github.com/grawl"}
+- 
   id: 2
   name: "Даниил"
   surname: "Целикин"
-  company: ""
+  company: "Третье Место"
   title: "Android Developer"
-  bio: "blah blah"
+  bio: "Независимый разработчик мобильных приложений (обращайтесь :). Активный участник хакатонов, конкурсов и прочего движняка.  Резидент Третьего Места."
   thumbnailUrl: daniil_celikin.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  social:
+    - {name: "vk", link: "https://vk.com/sportivka_kun"}
+    - {name: "github", link: "https://github.com/dan4ik95dv"}
 - 
   id: 3
   name: "Игорь"
   surname: "Должиков"
   company: "Openprovider, Новосибирск"
   title: "SRE"
-  bio: "blah blah"
+  bio: "Игорь имеет огромный опыт в разработке ПО и является активным участником IT сообщества Новосибирска. Его доклады о Go, Docker, Kubernetes всегда вызывают интерес публики."
   thumbnailUrl: igor_dolzhikov.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/bluesriverz"}
+    - {name: "github", link: "https://github.com/takama" }
 - 
   id: 4
   name: "Дмитрий"
   surname: "Крылов"
   company: "datamarket, emply"
   title: "Ведущий разработчик"
-  bio: "blah blah"
+  bio: "О себе: к.т.н., специализация: интеллектуальные системы, распознавание изображений. Участие в проектах: emply.ru, datamarket.online"
   thumbnailUrl: dima_krylov.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
-  id: 5
-  name: "Даниил"
-  surname: "Пронин"
-  company: "FEIP"
-  title: "Frontend-разработчик"
-  bio: "blah blah"
-  thumbnailUrl: daniil.jpg
+- id: 5
+  name: "Леонид"
+  surname: "Кальнеус"
+  company: "Sibneuro"
+  title: "CTO"
+  bio: "Леонид - лидер Новосибирской GDG, основатель местных сообществ Go и Docker. "
+  thumbnailUrl: leonid_kalneus.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+      - {name: "github", link: "https://github.com/lkalneus"}
+      - {name: "twitter", link: "https://twitter.com/lkalneus"}

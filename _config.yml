@@ -14,8 +14,8 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/f"
-url: "http://devfest.melekhin.me"
+baseurl: "/devfest"
+url: "http://gdgvl.ru"
 permalink: '/blog/:title'
 
 # i18n

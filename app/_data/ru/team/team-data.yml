@@ -3,7 +3,7 @@
   name: "Сергей"
   surname: "Мелехин"
   title: "Организатор"
-  thumbnailUrl: sergey.jpg
+  thumbnailUrl: sergey_me.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -22,3 +22,10 @@
     - {name: "twitter", link: "http://twitter.com/grawlcore"}
     - {name: "github", link: "http://github.com/grawl"}
     - {name: "site", link: "http://grawl.ru/"}
+-
+  id: 2
+  name: "Леонид"
+  surname: "Бондарь"
+  title: "Организатор"
+  thumbnailUrl: leonid.jpg
+  team: true
