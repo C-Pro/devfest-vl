@@ -26,7 +26,7 @@
   speakers: [2]
   language: ru
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://drive.google.com/open?id=0B9LPdysYK7tzZ3N3T2RhS0g4LWM"
   #video: ""
 -
   id: 005
@@ -36,7 +36,7 @@
   speakers: [3]
   language: ru
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://drive.google.com/open?id=0B9LPdysYK7tzRXRPY3p0UzB4TkE"
 -
   id: 006
   title: "Машинное обучение и светлое будущее"
@@ -45,7 +45,7 @@
   speakers: [0]
   language: ru
   complexity: "Beginner"
-  presentation: "https://drive.google.com/open?id=1Xt00FMWsxLXbLLl6EM0PdOWTg6l_Om-YE4RTz3KjvOQ"
+  presentation: "https://docs.google.com/presentation/d/1oi1HTuu7amv4t-GspAOgN4Wh23m78v-Io6O4cNqjMBk/edit?usp=sharing"
   #video: ""
 -
   id: 007
@@ -55,7 +55,7 @@
   speakers: [2]
   language: ru
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://drive.google.com/open?id=0B9LPdysYK7tzZ3N3T2RhS0g4LWM"
   #video: ""
 -
   id: 008
@@ -65,7 +65,7 @@
   speakers: [4]
   language: ru
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://drive.google.com/open?id=0B9LPdysYK7tzRmNlS05VZTlrSlE"
   #video: ""
 -
   id: 009
@@ -75,7 +75,7 @@
   speakers: [1]
   language: ru
   complexity: "Intermediate"
-  #presentation: ""
+  presentation: "https://drive.google.com/open?id=0B9LPdysYK7tzMThEd0lfRm5fQkk"
   #video: ""
 -
   id: 010
